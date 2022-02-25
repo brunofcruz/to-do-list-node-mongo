@@ -1,3 +1,23 @@
-h5{
-    color:rgb(255, 0, 0);
+body{
+    background-color: #7fba8b;
+    padding: 20px;
+    margin: 0px;
+}
+
+#container-input{
+    width: 30%;
+}
+
+#container-list{
+    width: 70%;
+}
+
+.titulo{
+    text-align: center;
+}
+.top_30{
+    margin-top: 30px;
+}
+.w100{
+    width: 100%;
 }

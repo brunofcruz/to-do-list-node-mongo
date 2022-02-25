@@ -7,3 +7,8 @@ const selectBox = () =>{
     document.querySelector('#select-box').innerHTML += loadList()
 }
 selectBox()
+
+//Precisa fazer o foreach aqui
+document.querySelector('#btn-add-item').addEventListener('click', e=>{
+    
+})
